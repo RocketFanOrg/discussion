@@ -6,8 +6,19 @@ Potentially a tab bar application with the following views:
 
 - [ ] Launches
 - [ ] Missions
-- [ ] Info: vehicles, pads, acronyms, company info?
-- [ ] Settings: Distance
+- [ ] Info: vehicles, pads, acronyms
+- [ ] Settings:
+
+    *App Settings*
+    - [ ] Distance
+    - [ ] Use Dark Theme
+
+    *About*
+    - [ ] Company Info
+    - [ ] API Info
+    - [ ] Source Link
+    - [ ] Contributors
+    - [ ] Report issue?
 
 ### Project Setup
 
@@ -161,3 +172,4 @@ Distances are available in miles and kilometers, this could be user settable, or
 ```swift
 NSLocale.current.usesMetricSystem ? "km" : "mi"
 ```
+
