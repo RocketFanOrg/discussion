@@ -1,4 +1,4 @@
-# 🚀 RocketFanApp 🚀
+# 🚀 RocketFan 🚀
 
 ## Project Overview
 
