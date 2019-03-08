@@ -7,7 +7,7 @@ Potentially a tab bar application with the following views:
 - [ ] Launches
 - [ ] Missions
 - [ ] Info: vehicles, pads, acronyms, company info?
-- [ ] Settings: will there be any?
+- [ ] Settings: Distance
 
 ### Project Setup
 
@@ -20,6 +20,7 @@ Potentially a tab bar application with the following views:
 - [SwiftLint](https://github.com/realm/SwiftLint)
 - [Danger](https://danger.systems/swift/)
 - [Bitrise](https://www.bitrise.io)
+- [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - To run on the CI if possible
 - CONTRIBUTING.md
 - [Changelog](https://keepachangelog.com/en/1.0.0/) - initially keep to major changes.
 - Semantic versioning
@@ -149,7 +150,7 @@ Errors seem to be returned as so:
 }
 ```
 
-A good idea would be for the error to be bubbled up to the coordinator, where it can decide how to handle it, for example, by presenting a toast notification. 
+A good idea would be for the error to be bubbled up to the coordinator, where it can decide how to handle it, for example, by presenting a toast notification.
 
 ## Settings
 
