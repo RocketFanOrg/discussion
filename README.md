@@ -1,4 +1,4 @@
-# Space App
+# 🚀 RocketFanApp 🚀
 
 ## Project Overview
 
@@ -172,4 +172,3 @@ Distances are available in miles and kilometers, this could be user settable, or
 ```swift
 NSLocale.current.usesMetricSystem ? "km" : "mi"
 ```
-
