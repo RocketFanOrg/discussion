@@ -36,9 +36,13 @@ Potentially a tab bar application with the following views:
 - [Changelog](https://keepachangelog.com/en/1.0.0/) - initially keep to major changes.
 - Semantic versioning
 - Pull Request early - as soon as you make your first commit, open a pull request, as this lets others see what is being worked on
-- [Slack Workspace](https://rocketfan.slack.com/) - For easier discussions 
+- [Slack Workspace](https://rocketfan.slack.com/) - For easier discussions
 
 ## Endpoints
+
+## Documentation
+
+- [SpaceX API](https://docs.spacexdata.com)
 
 ### Capsules
 
