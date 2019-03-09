@@ -40,7 +40,7 @@ Potentially a tab bar application with the following views:
 
 ## Endpoints
 
-## Documentation
+### Documentation
 
 - [SpaceX API](https://docs.spacexdata.com)
 
