@@ -22,11 +22,11 @@ Potentially a tab bar application with the following views:
 
 ### Tooling
 
-- [Bitrise](https://www.bitrise.io): continuous integration
-- [Danger](https://danger.systems/swift/): for automatically checking rules for pull requests
-- [SwiftFormat](https://github.com/nicklockwood/SwiftFormat): automatically format code in pull requests, so contributors don't have to be concerned if their style doesn't match
-- [SwiftLint](https://github.com/realm/SwiftLint): for linting code to ensure it fits the style guide
-- [Slack Workspace](https://rocketfan.slack.com/): for easier discussions
+- [ ] [Bitrise](https://www.bitrise.io): continuous integration
+- [ ] [Danger](https://danger.systems/swift/): for automatically checking rules for pull requests
+- [ ] [SwiftFormat](https://github.com/nicklockwood/SwiftFormat): automatically format code in pull requests, so contributors don't have to be concerned if their style doesn't match
+- [ ] [SwiftLint](https://github.com/realm/SwiftLint): for linting code to ensure it fits the style guide
+- [ ] [Slack Workspace](https://rocketfan.slack.com/): for easier discussions
 
 
 ### Project Setup
