@@ -20,6 +20,15 @@ Potentially a tab bar application with the following views:
     - [ ] Contributors
     - [ ] Report issue?
 
+### Tooling
+
+- [Bitrise](https://www.bitrise.io): continuous integration
+- [Danger](https://danger.systems/swift/): for automatically checking rules for pull requests
+- [SwiftFormat](https://github.com/nicklockwood/SwiftFormat): automatically format code in pull requests, so contributors don't have to be concerned if their style doesn't match
+- [SwiftLint](https://github.com/realm/SwiftLint): for linting code to ensure it fits the style guide
+- [Slack Workspace](https://rocketfan.slack.com/): for easier discussions
+
+
 ### Project Setup
 
 - Organise by features. See [Unwrap App](https://github.com/twostraws/Unwrap).
@@ -28,15 +37,10 @@ Potentially a tab bar application with the following views:
 - Favour [Dependency Injection](https://www.swiftbysundell.com/posts/different-flavors-of-dependency-injection-in-swift)
 - Encourage testing. Decodable models are *required* to be tested, controllers ideally should be, views will not be. Can always do snapshot tests later
 - Avoid 3rd party dependencies
-- [SwiftLint](https://github.com/realm/SwiftLint)
-- [Danger](https://danger.systems/swift/)
-- [Bitrise](https://www.bitrise.io)
-- [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - To run on the CI if possible
 - CONTRIBUTING.md
 - [Changelog](https://keepachangelog.com/en/1.0.0/) - initially keep to major changes.
 - Semantic versioning
 - Pull Request early - as soon as you make your first commit, open a pull request, as this lets others see what is being worked on
-- [Slack Workspace](https://rocketfan.slack.com/) - For easier discussions
 
 ## Endpoints
 
@@ -177,3 +181,4 @@ Distances are available in miles and kilometers, this could be user settable, or
 ```swift
 NSLocale.current.usesMetricSystem ? "km" : "mi"
 ```
+
