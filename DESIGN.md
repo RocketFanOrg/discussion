@@ -12,3 +12,21 @@ The app should use a dark theme by default, but further down the line, we should
 - [ ] Label text main: The main text colour in cells
 - [ ] Label text alternative: The subtitle text colour in cells
 
+## Views
+
+### Launchpad
+
+A launch pad has the following data available:
+
+- Full name
+- Details: a description of the launch pad
+- Location: lat/long, which could be displayed in a map
+- Location name: e.g. Cape Canaveral
+- Location region: e.g. Florida
+- Attempted launches
+- Successful launches
+- Status: active or retired
+- Vehicles launched: an array of `Vehicles`
+
+![Launch Pad Wireframe](images/launch-pad.png)
+
