@@ -5,8 +5,9 @@
 Potentially a tab bar application with the following views:
 
 - [ ] Launches
-- [ ] Missions
-- [ ] Info: vehicles, pads, acronyms
+- [ ] Rockets
+- [ ] Stats
+- [ ] Media
 - [ ] Settings:
 
     *App Settings*
