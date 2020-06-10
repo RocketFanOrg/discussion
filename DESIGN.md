@@ -28,5 +28,6 @@ A launch pad has the following data available:
 - Status: active or retired
 - Vehicles launched: an array of `Vehicles`
 
-![Launch Pad Wireframe](images/launch-pad.png)
+![Launch Pad Wireframe](images/singleLaunch_dark.png)
+![Launch Pad Wireframe](images/singleLaunch_light.png)
 
